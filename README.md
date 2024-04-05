@@ -1,2 +1,2 @@
-# Projet Machine Learning L3
-Projet machine learning pour expliquer le prix de l’électricité
+#L3 Machine Learning Project
+Machine learning project to explain the price of electricity
