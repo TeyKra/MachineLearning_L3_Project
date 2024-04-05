@@ -1,2 +1,2 @@
-# Project_Machine_Learning_L3
+# MachineLearning_L3_Project
 Machine learning project to explain the price of electricity
